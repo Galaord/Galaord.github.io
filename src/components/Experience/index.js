@@ -19,7 +19,7 @@ const Experience = () =>{
                         <AnimatedLetters letterClass={letterClass} strArray={['Work Experience']} idx={15}/>
                     </h1>
                     <h2>
-                        Internship at ERP24
+                        Internship at ERP244
                     </h2>
                     <p>
                         I have done an Internship at this company where I worked in Back-end for 750 hours for the completion of one of my classes.
